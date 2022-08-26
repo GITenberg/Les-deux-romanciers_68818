@@ -1,0 +1,35 @@
+_repo: Les-deux-romanciers_68818
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boylesve, René
+    aliases:
+    - Boylesve, Rene
+    - Tardivaux, René
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '8323'
+    url: http://www.gutenberg.org/2009/agents/8323
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+description: ''
+gutenberg_issued: '2022-08-23'
+identifiers:
+  gutenberg: '68818'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k81146f
+pgterms:marc905: 20220105234010boylesve
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :J. Ferenczi et fils,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les deux romanciers
+url: http://www.gutenberg.org/ebooks/68818
